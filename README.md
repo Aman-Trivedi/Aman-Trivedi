@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman-Trivedi
 - Engineer By Profession
-- 👀 I have good Knowledge of Android Dev and web Dev
+- 👀 I have a good Knowledge of Android Dev and web Dev
 - 🌱 I’m currently learning Various new Technologies
 
 <!---
